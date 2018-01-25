@@ -1,5 +1,6 @@
 # CRUD_BlogSite
 Blog Website with CRUD in php
+Users must include font-awsome-4.7.0 in this project to get the efficient output 
 #one
 --------------------------------------------------------------------------------------
 These uploaded files include only the User view of the Blogging Website
